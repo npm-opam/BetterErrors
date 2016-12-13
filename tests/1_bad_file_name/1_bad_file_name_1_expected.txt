@@ -1,0 +1,4 @@
+[36mtests/1_bad_file_name/1_bad_file_name_1.ml:1 0-0
+[0m1 | [33;4m[0mlet a = 5
+
+[33mWarning[0m 24: bad source file name: "1_bad_file_name_1" is not a valid module name.
